@@ -1,1 +1,1 @@
-# RIPv6
+# RIPv6 (Random IPv6)
