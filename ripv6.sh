@@ -1,7 +1,8 @@
 #!/bin/bash
+
 # -----
 # Name: RIPv6
-# Autor: Mick Schneider (misc@scip.ch)
+# Copyright (c) 2016 Michael Schneider (scip AG)
 # Date: 27-05-2016
 # Version: 0.2.3
 # -----
